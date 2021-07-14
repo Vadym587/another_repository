@@ -2,3 +2,6 @@ first line
 second line
 one more line
 two more line
+
+Hello there!
+General Kenobi!

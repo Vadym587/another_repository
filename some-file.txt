@@ -6,4 +6,4 @@ two more line
 Hello there!
 General Kenobi!
 
-Something new
+___________________

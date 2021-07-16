@@ -1,3 +1,3 @@
 # git-demo
 
-local
+local and from main
